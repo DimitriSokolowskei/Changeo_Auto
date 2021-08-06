@@ -17,4 +17,4 @@ export IGDATA=~/ImmcantationScripts/share/igblast
 	    -domain_system imgt -ig_seqtype Ig -organism rhesus_monkey \
 	    -outfmt '7 std qseq sseq btop' \
 	    -query ${FILE}_atleast-2.fasta \
-	    -out A84_atleast-2_igh.fmt7
+	    -out ${FILE}_atleast-2_igh.fmt7
